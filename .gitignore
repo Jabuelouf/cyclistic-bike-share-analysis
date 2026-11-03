@@ -1,0 +1,27 @@
+# Raw Divvy Trip Data Files (Large monthly CSVs from Divvy / Motivate LLC)
+*.csv
+*.zip
+*.tar.gz
+data/raw/
+data/processed/
+
+# R environment artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.bak
