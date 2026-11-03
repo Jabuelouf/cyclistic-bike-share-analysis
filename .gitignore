@@ -25,3 +25,16 @@ Thumbs.db
 .idea/
 *.swp
 *.bak
+
+# AI Agents & IDE Memory (Strictly Excluded)
+.kiro/
+.cursor/
+.cursorrules
+.claude/
+.gemini/
+.antigravity/
+AGENTS.md
+agents.md
+*.kiro.hook
+IDE_MEMORY/
+kiro-coherent-memory/
